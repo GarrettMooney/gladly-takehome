@@ -1,0 +1,10 @@
+# boilerplate
+ipykernel
+jupyterlab
+# etl
+duckdb
+matplotlib
+polars
+pyarrow
+seaborn
+sentence-transformers
