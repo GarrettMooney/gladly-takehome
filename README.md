@@ -5,3 +5,5 @@ Given more time, I'd likely explore:
 * embeddings + UMAP of title and/or closure reason
 * exploring closure reason vs time to close
 * ???
+
+In many ways, this initial analysis raised more questions to dig into than it gave a narrative ¯\_(ツ)_/¯
