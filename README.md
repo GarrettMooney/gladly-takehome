@@ -16,7 +16,7 @@ In a terminal:
 Given more time, I'd likely explore:
 
 - [ ] location
-- [ ]embeddings + UMAP of title and/or closure reason
+- [ ] embeddings + UMAP of title and/or closure reason
 - [ ] exploring closure reason vs time to close
 - [ ] ???
 
